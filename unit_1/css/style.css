@@ -4,4 +4,14 @@ body {
 
 h1, h2, p {
 	color: #FFFFFF;
+	font-family: Roboto;
+}
+
+p {
+	font-weight: normal;
+	font-size: 12px;
+}
+
+body {
+	text-align: center;
 }
