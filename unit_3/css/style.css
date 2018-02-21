@@ -1,6 +1,5 @@
 body {
-	background-color: #191919;
-	background: <img src="/images/cabo.png">
+	background: url("/images/cabo.png")
 	background-size: cover;
 }
 
