@@ -15,3 +15,15 @@ p {
 body {
 	text-align: center;
 }
+
+h1 {
+	font-weight: bold;
+}
+
+#p1 {
+	font-weight: normal;
+	font-size: 12px;
+}
+
+
+
