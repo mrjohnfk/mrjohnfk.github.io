@@ -1,5 +1,7 @@
 body {
 	background-color: #191919;
+	background: url("/images/cabo.png")
+	background-size: cover;
 }
 
 h1, p {
