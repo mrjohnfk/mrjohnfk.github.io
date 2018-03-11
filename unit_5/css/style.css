@@ -34,3 +34,10 @@ img {
 .contact {
 	font-size: 12px;
 }
+
+nav {
+	background: black;
+	font-color: white;
+	padding: 1em;
+
+}
