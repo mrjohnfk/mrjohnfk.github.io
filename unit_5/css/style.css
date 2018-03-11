@@ -50,7 +50,7 @@ aside {
 	padding: 1.5em;
 }
 
-article {
+.description {
 	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 1.5em;
@@ -62,7 +62,7 @@ footer {
 	padding: 1.5em;
 }
 
-div {
+.wrapper {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 1.5em;
