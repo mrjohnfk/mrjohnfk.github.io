@@ -31,3 +31,39 @@ nav {
 	padding: 1em;
 	font-weight: bold;
 }
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 1.5em;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 1.5em;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 1.5em;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 1.5em;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 1.5em;
+}
+
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 1.5em;
+}
