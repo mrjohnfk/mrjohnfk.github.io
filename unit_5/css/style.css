@@ -37,7 +37,10 @@ img {
 
 nav {
 	background: black;
-	font-color: white;
 	padding: 1em;
 
+}
+
+.nav {
+	font-color: white;
 }
