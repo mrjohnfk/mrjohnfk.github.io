@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker)
+@import url(https://fonts.googleapis.com/css?family=Roboto)
+
+body {
+	color: #000;
+	font-family: Roboto;
+	background: #FFF
+}
+
+p {
+	font-weight: normal;
+	font-size: 14px;
+}
+
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	font-weight: bold;
+	font-size: 50px
+}
+
+#slogan {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+img {
+	max-width: 600px;
+	max-height: 600px;
+	object-fit: contain;
+}
+
+.contact {
+	font-size: 12px;
+}
